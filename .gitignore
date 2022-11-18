@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+sanity2/
 
 # macOS
 .DS_Store
+
